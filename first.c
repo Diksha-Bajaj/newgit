@@ -1,5 +1,5 @@
 #include<iostream.h>
 Void main()
 {
-Printf(“hello”);
+Printf(“hello different dir”);
 }
